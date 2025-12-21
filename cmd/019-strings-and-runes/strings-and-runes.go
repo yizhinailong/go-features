@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	const s = "สวัสดี"
+	const s = "你好"
 
 	fmt.Println("Len:", len(s))
 
